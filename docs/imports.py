@@ -1,5 +1,5 @@
 """
-pip install fastapi
+pip install fastapi uvicorn
 pip install pydantic
 pip install 'pydantic[email]'
 pip install SQLAlchemy
