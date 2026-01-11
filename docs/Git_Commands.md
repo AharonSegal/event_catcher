@@ -54,7 +54,7 @@ git branch
 
 # Create a new branch
 git checkout -b title/branch_purpose
-git checkout -b dev/Refine_FastApi_code
+git checkout -b aharon/external_api
 
 # Stage changes
 git add .
